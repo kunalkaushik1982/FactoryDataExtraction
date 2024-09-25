@@ -1,0 +1,12 @@
+# config/config.yaml
+pdf_input_folder: r"C:\Users\kunkaush1\Documents\Project\FactoryDataExtraction\Data"
+excel_output_file: r"C:\Users\kunkaush1\Documents\Project\FactoryDataExtraction\Data\excel.xlsx"
+pe4_table_extractors:
+  start_text: "Performance Indicators for"
+  end_text: "2 Landscape"
+  columns: ["Area", "Indicators", "Value", "Trend"]
+wp2_table_extractors:
+  start_text: "Performance Indicators for"
+  end_text: "2 Landscape"
+  columns: ["Area", "Indicators", "Value", "Trend"]
+
