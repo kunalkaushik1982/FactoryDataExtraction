@@ -1,0 +1,7 @@
+PyPDF2
+PyMuPDF 
+pandas 
+openpyxl
+pdfplumber==0.5.28
+pdfminer.six==20200517
+xlsxwriter
